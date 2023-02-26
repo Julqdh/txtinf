@@ -1,0 +1,3 @@
+﻿  files.cpp
+C:\Users\amira\source\repos\schlange\schlange\files.cpp(44,3): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+  schlange.vcxproj -> C:\Users\amira\source\repos\schlange\x64\Debug\schlange.exe

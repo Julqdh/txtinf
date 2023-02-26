@@ -1,0 +1,8 @@
+﻿  files.cpp
+C:\Users\amira\source\repos\schlange\schlange\files.cpp(44,3): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+  schlange.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 181 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  schlange.vcxproj -> C:\Users\amira\source\repos\schlange\Release\schlange.exe
